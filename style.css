@@ -1,0 +1,27 @@
+body {
+    background-image: url('reflection-nebula.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+
+}
+footer{
+    height: 70px;
+    background: rgb(0, 0, 0);
+    color: red;
+    padding: 20px 50px;
+    opacity: 0.8;
+
+}
+footer a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.right{
+    float: right;
+}
+NAV{
+    opacity: 0.8;
+}
